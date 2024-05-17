@@ -1,2 +1,2 @@
 def boo():
-    pass
+    return True
